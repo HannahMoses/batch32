@@ -7,6 +7,17 @@ $ git init
 $ git remote add origin master https://github.com/HannahMoses/batch32.git
 $ git status
 $ git pull https://github.com/HannahMoses/batch32.git
+$  git status
+$ dir
+HowTo1.txt  README.md
+$ vi HowTo1.txt (//when editor opens HowTo1.txt file,read and type :q)
+$ dir
+HowTo1.txt  README.md
+$ git pull https://github.com/HannahMoses/batch32.git
+$ dir
+HowTo1.txt  README.md
+$ vi HowTo1.txt(//when editor opens HowTo1.txt file,read and note that additions made to this file
+                 in remote repo were added in local repo also and type :q)
 
 
 ....

@@ -6,3 +6,7 @@ $ cd batch32
 $ git init
 $ git remote add origin master https://github.com/HannahMoses/batch32.git
 $ git status
+$ git pull https://github.com/HannahMoses/batch32.git
+
+
+....

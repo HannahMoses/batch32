@@ -1,0 +1,8 @@
+HowTo1.txt
+h19SL@LAPTOP-I7UJGI2C MINGW64 ~
+$ cd IdeaProjects
+$ dir
+$ cd batch32
+$ git init
+$ git remote add origin master https://github.com/HannahMoses/batch32.git
+$ git status
